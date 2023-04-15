@@ -1,0 +1,16 @@
+{
+  "__APP_NAME__": "Revive",
+  "SEARCH_PRODUCTS": "Search Products",
+  "GLOBAL_SETTINGS": "Global Settings",
+  "GLOBAL_FILTER": "Global Filter",
+  "CHOOSE_THEME": "Choose Theme",
+  "CHOOSE_LANGUAGE": "Choose Language",
+  "LIGHT": "Light",
+  "DARK": "Dark",
+  "THEME": "Theme",
+  "LANGUAGE": "Language",
+  "ADD_TO_CART": "Add To Cart",
+  "RELEASE_TO_REFRESH": "Release to refresh",
+  "PULL_DOWN_TO_REFRESH": "Pull down to refresh",
+  "__IN_BAG__": "{{ count }} in bag"
+}

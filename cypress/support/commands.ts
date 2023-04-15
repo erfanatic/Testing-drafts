@@ -35,3 +35,27 @@
 //     }
 //   }
 // }
+// @ts-nocheck
+
+// @ts-nocheck
+
+import en from "../../src/locales/en.json";
+import bn from "../../src/locales/bn.json";
+
+Cypress.Commands.add("getByTestId", (selector, ...args) => {
+  return cy.get(`[data-testid=${selector}]`, ...args);
+});
+
+Cypress.Commands.add(
+  "getByTranslatedText",
+  (selector, key, language = "en", ...args) => {
+    const mapLanguage = {
+      en,
+      bn,
+    };
+    return cy.get(selector, ...args).contains(mapLanguage[language][key]);
+  }
+);
+
+const globals = {};
+export default globals;

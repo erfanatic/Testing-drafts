@@ -1,0 +1,16 @@
+{
+  "__APP_NAME__": "রেভাইব",
+  "SEARCH_PRODUCTS": "পণ্য অনুসন্ধান করুন",
+  "GLOBAL_FILTER": "গ্লোবাল ",
+  "GLOBAL_SETTINGS": "গ্লোবাল সেটিংস",
+  "CHOOSE_THEME": "থিম চয়ন করুন",
+  "CHOOSE_LANGUAGE": "ভাষা চয়ন করুন",
+  "LIGHT": "আলো",
+  "DARK": "অন্ধকার",
+  "THEME": "থিম",
+  "LANGUAGE": "ভাষা",
+  "ADD_TO_CART": "কার্টে যোগ করুন",
+  "RELEASE_TO_REFRESH": "রিফ্রেশ করতে ছেড়ে দিন",
+  "PULL_DOWN_TO_REFRESH": "রিফ্রেশ করতে নিচে টানুন",
+  "__IN_BAG__": "{{ count }} ব্যাগে"
+}
